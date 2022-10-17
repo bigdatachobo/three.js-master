@@ -2,11 +2,11 @@
 
 # YouTube 강좌 Link - GIS DEVELOPER
 
-## [Three.js 강좌 #1. 개발환경구성](https://youtu.be/ZGACJosABBw)</br>
+### [Three.js 강좌 #1. 개발환경구성](https://youtu.be/ZGACJosABBw)</br>
 
-## [Three.js 강좌 #2. 기본 구성 요소와 코드](https://youtu.be/vjKuk5Vp93k)</br>
+### [Three.js 강좌 #2. 기본 구성 요소와 코드](https://youtu.be/vjKuk5Vp93k)</br>
 
-## [Three.js 강좌 #3. 지오메트리(Geometry) part-1](https://youtu.be/ITA9no8Bsio)</br>
+### [Three.js 강좌 #3. 지오메트리(Geometry) part-1](https://youtu.be/ITA9no8Bsio){:target="\_blank"} </br>
 
 # three.js
 
